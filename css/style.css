@@ -1,0 +1,89 @@
+.grid-item {
+  width: 200px;
+  border: 1px solid blue;
+}
+
+.grid-item--width2 {
+  width: 400px;
+  border: 1px solid red;
+}
+
+.contact-form {
+  width: 50%;
+  margin: auto;
+}
+
+#contact-red {
+  color: #fe502d;
+}
+
+body {
+  font-family: "Poppins", serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.filter-wrap {
+  position: relative;
+  z-index: 1;
+}
+
+ul {
+  list-style: none;
+}
+
+.filter-wrap li {
+  float: right;
+  margin-right: 10px;
+}
+
+.filter-wrap .but {
+  padding: 14px 20px 13px;
+  border: 1px solid #e5e5e5;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #888;
+  font-weight: 600;
+  letter-spacing: .4px;
+  font-family: "Poppins";
+  border: 1px solid #E0E0E0;
+  background-color: #fff;
+  transition: all ease .4s;
+}
+
+.filter-wrap .but:hover {
+  color: #fe502d;
+  border-color: #fe502d;
+}
+
+.border-red-left {
+  border-bottom: 2px solid #fe502d;
+  width: 30%;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.border-red-right {
+  border-bottom: 2px solid #fe502d;
+  width: 30%;
+  margin: 1em 0;
+  float: right;
+}
+
+#text-grey {
+  color: #888;
+}
+
+.width-thibault {
+  width: 95%;
+  margin: auto;
+}
+
+.width-theo {
+  width: 95%;
+  margin: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
